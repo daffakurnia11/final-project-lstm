@@ -1,1 +1,7 @@
 .venv
+.DS_Store
+
+dataset.csv
+splitted_by_sensor/Dataset_Sensor_1.csv
+splitted_by_sensor/Dataset_Sensor_2.csv
+splitted_by_sensor/Dataset_Sensor_3.csv
