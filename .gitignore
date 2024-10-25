@@ -1,5 +1,5 @@
 .venv
 .DS_Store
 
-dataset.csv
+dataset/*
 splitted_by_sensor/*
